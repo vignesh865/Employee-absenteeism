@@ -11,3 +11,5 @@ Build suitable model (both R and Python) to answer the above two questions with 
 1. Dataset Characteristics: Timeseries Multivariant 
 2. Number of Attributes: 21 
 3. Missing Values : Yes
+
+Read  Detailed Report - https://github.com/vignesh865/Employee-absenteeism/blob/master/Employee%20absenteeism%20report.pdf
